@@ -1,7 +1,7 @@
 //exemplo de uso de alerta e tipos de variáveis:
 
 //let saudacao = "olá,meu nome é";
-//const nome = " Mariane"
+//const nome = " Graziella"
 
 //alert(saudacao + nome);
 
